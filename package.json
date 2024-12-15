@@ -1,6 +1,7 @@
 {
 
     "name": "nodejs-course",
+<<<<<<< HEAD
     
     "version": "1.0.0",
     
@@ -19,3 +20,30 @@
     "license": "ISC"
     
     }
+=======
+
+    "version": "1.0.0",
+
+    "description": "",
+
+    "main": "index.js",
+
+    "scripts": {
+
+        "test": "echo \"Error: no test specified\" && exit 1"
+
+    },
+
+    "author": "maksym bychok",
+
+    "license": "ISC",
+
+    "dependencies": {
+
+        "express": "^4.21.1"
+
+    }
+
+}
+
+>>>>>>> cb3699462348656f89c452cc9546c88d9c6e37a7
